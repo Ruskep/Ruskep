@@ -26,10 +26,6 @@
     "avatarShape": "cookie",
     "chips": [
       {
-        "icon": "location_on",
-        "label": "Земля"
-      },
-      {
         "icon": "code",
         "label": "Вайбкодинг"
       }
@@ -40,7 +36,7 @@
     "items": [
       {
         "icon": "person",
-        "label": "Разработчик и дизайнер"
+        "label": "Разработчик и Дизайнер"
       },
       {
         "icon": "code",
@@ -53,7 +49,7 @@
     ]
   },
   "stack": {
-    "title": "Стек",
+    "title": "Tech stack",
     "groups": [
       {
         "title": "Main",
@@ -98,25 +94,25 @@
       "Enchanted-Lucky-Blocks"
     ],
     "overrides": {},
-    "empty": "Описания пока нет.",
+    "empty": "No description yet.",
     "fork": "Fork"
   },
   "stats": {
-    "title": "Активность на GitHub",
-    "stars": "Звёзд получено",
-    "contributions": "Вкладов за год",
-    "repos": "Публичных репо",
-    "followers": "Подписчиков",
-    "calendar": "Последние 21 день",
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
     "weekdays": "ПВСЧПСВ",
-    "languages": "Языки в моих репозиториях",
+    "languages": "Languages across my repositories",
     "showLanguages": true
   },
   "streak": {
-    "title": "Серия",
-    "current": "Текущая серия",
-    "longest": "Рекорд за год",
-    "days": "дн."
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
   },
   "socials": {
     "items": [
@@ -152,7 +148,7 @@
       },
       {
         "icon": "book_2",
-        "label": "Все репозитории",
+        "label": "All repositories",
         "url": "",
         "style": "tonal"
       }
